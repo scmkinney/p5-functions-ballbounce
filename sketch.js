@@ -22,7 +22,7 @@ function display(){
     fill(50,250,50);
     ellipse(x, y, 50, 50);
 }
-
+ 
 function move(){
     //make ball move
     y = y + speedy;
